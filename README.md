@@ -4,8 +4,8 @@
 2. put `#base weapon.res` at the top of your `scripts/hudlayout.res`
 3. <b>enable a hud crosshair</b>
 
-to change icon size, go into `cfg/weapon.cfg` and adjust `cl_crosshair_scale` accordingly<br>
-to change position, adjust the `xpos` and `ypos` inside `scripts/weapon.res`
+to change icon size, go into `cfg/weapon.cfg` and adjust `cl_crosshair_scale` accordingly.<br>
+to change position, adjust the `xpos` and `ypos` inside `scripts/weapon.res`.
 
 # assuming your hud DOES have a valve.rc file
 
@@ -14,8 +14,8 @@ to change position, adjust the `xpos` and `ypos` inside `scripts/weapon.res`
 3. put `#base weapon.res` at the top of your `scripts/hudlayout.res`
 4. enable a hud crosshair
 
-to change icon size, go into `cfg/weapon.cfg` and adjust `cl_crosshair_scale` accordingly<br>
-to change position, adjust the `xpos` and `ypos` inside `scripts/weapon.res`
+to change icon size, go into `cfg/weapon.cfg` and adjust `cl_crosshair_scale` accordingly.<br>
+to change position, adjust the `xpos` and `ypos` inside `scripts/weapon.res`.
 
 # credits
 minhud - most files
