@@ -16,3 +16,6 @@ to change position, adjust the `xpos` and `ypos` inside `scripts/weapon.res`
 
 to change icon size, go into `cfg/weapon.cfg` and adjust `cl_crosshair_scale` accordingly.
 to change position, adjust the `xpos` and `ypos` inside `scripts/weapon.res`
+
+#credits
+minhud - most files
