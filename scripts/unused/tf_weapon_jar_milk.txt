@@ -71,7 +71,7 @@
 
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/weapons/throwable"
+				"file"		"vgui/replay/thumbnails/weapons/milk"
 				"x"		"0"
 				"y"		"0"
 				"width"		"128"

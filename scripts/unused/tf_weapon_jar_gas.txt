@@ -65,7 +65,7 @@ WeaponData
 
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/weapons/throwable"
+				"file"		"vgui/replay/thumbnails/weapons/gas"
 				"x"		"32"
 				"y"		"32"
 				"width"		"32"
