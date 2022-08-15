@@ -63,11 +63,11 @@ WeaponData
 
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/weapons/Sapper"
-				"x"		"0"
-				"y"		"48"
-				"width"		"24"
-				"height"	"24"
+			  "file"	"vgui/replay/thumbnails/weapons/Sapper"
+			  "x"	"0"
+			  "y"	"0"
+			  "width"	"512"
+			  "height"	"512"
 		}
 
 		"autoaim"
