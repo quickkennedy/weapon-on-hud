@@ -67,7 +67,7 @@
 
 		"crosshair"
 		{
-			  "file"	"vgui/replay/thumbnails/weapons/axe"
+			  "file"	"vgui/replay/thumbnails/weapons/melee"
 			  "x"	"0"
 			  "y"	"0"
 			  "width"	"512"
