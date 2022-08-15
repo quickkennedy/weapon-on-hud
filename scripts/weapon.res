@@ -10,8 +10,8 @@
 		"fieldName"	"HudCrosshair"
 		"visible"	"1"
 		"enabled"	"1"
-		"ypos"		"142"	//from center
-		"xpos"		"0"		//from center
+		"ypos"		"100"	//down, from center
+		"xpos"		"0"		//right, from center
 		"wide"		"640"	//set to 640, control size with cl_crosshair_scale
 		"tall"		"480"	//set to 480, control size with cl_crosshair_scale
 	}
